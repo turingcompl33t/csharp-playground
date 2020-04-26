@@ -3,3 +3,5 @@
 
 del /S .\*.exe
 del /S .\*.pdb
+del /S .\*.dll
+del /S .\*.netmodule
