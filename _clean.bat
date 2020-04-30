@@ -4,4 +4,5 @@
 del /S .\*.exe
 del /S .\*.pdb
 del /S .\*.dll
+del /S .\*.obj
 del /S .\*.netmodule
